@@ -24,7 +24,7 @@ compared directly.
 
 ---
 
-### 🧟 [Zombie Zurvivors](https://drasombroso.itch.io)
+### 🧟 [Zombie Zurvivor](https://drasombroso.itch.io/zombie-zurvivor)
 
 A complete first-person shooter with menus, options, level select and multiple maps. Older work, and
 the project where I learned how much of a game isn't the mechanic.
